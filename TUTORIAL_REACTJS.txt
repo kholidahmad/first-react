@@ -1,0 +1,2 @@
+# npm instal -g create-react-app
+# create-react-app <nama projek>
